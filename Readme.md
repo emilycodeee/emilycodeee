@@ -17,7 +17,8 @@ Hi, I'm Emily! A Front-End Developer with solid marketing background. I love lea
 - HTML5
 - CSS3, SCSS, SASS
 - Bootstrap, jQuery
-- JavaScript
+- JavaScript, TypeScript
+- Vue,
 - React, React-Redux, React-Router
 - Node.js, express.js, handlebars
 - Jest, React-Testing-Library
