@@ -40,7 +40,7 @@ Hi, I'm Emily! A Front-End Developer with solid marketing background. I love lea
   An e-commerce website built with vanilla JavaScript.
 
 ## 🔗 Get in touch
-
+- Tech Blog: https://emilycodeee.github.io/
 - Blog: https://emilywalkdone.blogspot.com/
 - E-mail: emilydondon@gmail.com
 
