@@ -31,6 +31,10 @@ Hi, I'm Emily! A Front-End Developer with solid marketing background. I love lea
 - Firebase
 - styled-components
 
+## 💡 Notes
+- [vue_resuable_component](https://github.com/emilycodeee/reusable_component_note) <br>
+  因為工作需要，從原本的react開發轉而進入vue框架，這裡將存放自己在Vue開發時，所使用的component，作為筆記也希望來日可以創建一個快捷組件庫。此repo以vitess模板創建。
+
 ## 💡 Projects
 
 - [shareMore](https://sharemore-discovermore.web.app/) <br>
